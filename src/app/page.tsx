@@ -1,5 +1,5 @@
-import Image from "next/image";
-import ToDo from "./Ui/Page";
+
+import ToDo from "../Ui/Page";
 
 export default function Home() {
   return (
